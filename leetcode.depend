@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454163998 source:/home/wanye/Desktop/leetcode/leetCode8StringToInteger.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	<math.h>
+
+1455549897 source:/home/wanye/Desktop/leetcode/leetCode9PalindromeNumber.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
