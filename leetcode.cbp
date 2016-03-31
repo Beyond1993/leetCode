@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="leetCode9PalindromeNumber.cpp" />
+		<Unit filename="leetCode49GroupAnagrams.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
