@@ -32,7 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="leetCode49GroupAnagrams.cpp" />
+		<Unit filename="leetCode36ValidSudoku.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
